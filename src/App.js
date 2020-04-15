@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as HashRouter, Route, Switch } from 'react-router-dom';
 import AppUa from './AppUa/AppUa'
 import AppUk from './AppUk'
 import AppRu from './AppRu/AppRu';
