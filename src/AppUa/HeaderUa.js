@@ -18,7 +18,7 @@ const HeaderUa = () => {
                 <h1>БАЛАБАН ОЛЕКСІЙ МИКОЛАЙОВИЧ</h1>
             </div>
             <div className="profesion">
-                <h2>Progect Manager</h2>
+                <h2>Junior Progect Manager</h2>
             </div>
         </div>
     )
