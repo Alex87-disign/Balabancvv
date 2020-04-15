@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/github.io/Balabancvv/static/css/main.7e7d6d7f.chunk.css",
-    "main.js": "/github.io/Balabancvv/static/js/main.ddf57a45.chunk.js",
-    "main.js.map": "/github.io/Balabancvv/static/js/main.ddf57a45.chunk.js.map",
-    "runtime-main.js": "/github.io/Balabancvv/static/js/runtime-main.5d7fe630.js",
-    "runtime-main.js.map": "/github.io/Balabancvv/static/js/runtime-main.5d7fe630.js.map",
-    "static/js/2.c8ba52df.chunk.js": "/github.io/Balabancvv/static/js/2.c8ba52df.chunk.js",
-    "static/js/2.c8ba52df.chunk.js.map": "/github.io/Balabancvv/static/js/2.c8ba52df.chunk.js.map",
-    "index.html": "/github.io/Balabancvv/index.html",
-    "precache-manifest.c65d8cb825c5c02b686f679606163cf5.js": "/github.io/Balabancvv/precache-manifest.c65d8cb825c5c02b686f679606163cf5.js",
-    "service-worker.js": "/github.io/Balabancvv/service-worker.js",
-    "static/css/main.7e7d6d7f.chunk.css.map": "/github.io/Balabancvv/static/css/main.7e7d6d7f.chunk.css.map",
-    "static/js/2.c8ba52df.chunk.js.LICENSE.txt": "/github.io/Balabancvv/static/js/2.c8ba52df.chunk.js.LICENSE.txt",
-    "static/media/instagram.png": "/github.io/Balabancvv/static/media/instagram.e61a60d1.png",
-    "static/media/linkedin.png": "/github.io/Balabancvv/static/media/linkedin.e154da52.png",
-    "static/media/photo.jpeg": "/github.io/Balabancvv/static/media/photo.60b77c6d.jpeg",
-    "static/media/telegram.png": "/github.io/Balabancvv/static/media/telegram.a8478366.png",
-    "static/media/uk.png": "/github.io/Balabancvv/static/media/uk.da3b52a2.png"
+    "main.css": "/Balabancvv/static/css/main.7e7d6d7f.chunk.css",
+    "main.js": "/Balabancvv/static/js/main.bc56a25f.chunk.js",
+    "main.js.map": "/Balabancvv/static/js/main.bc56a25f.chunk.js.map",
+    "runtime-main.js": "/Balabancvv/static/js/runtime-main.dd60d6d2.js",
+    "runtime-main.js.map": "/Balabancvv/static/js/runtime-main.dd60d6d2.js.map",
+    "static/js/2.6a06c07c.chunk.js": "/Balabancvv/static/js/2.6a06c07c.chunk.js",
+    "static/js/2.6a06c07c.chunk.js.map": "/Balabancvv/static/js/2.6a06c07c.chunk.js.map",
+    "index.html": "/Balabancvv/index.html",
+    "precache-manifest.f30494943e11da8f8ed9b68472421479.js": "/Balabancvv/precache-manifest.f30494943e11da8f8ed9b68472421479.js",
+    "service-worker.js": "/Balabancvv/service-worker.js",
+    "static/css/main.7e7d6d7f.chunk.css.map": "/Balabancvv/static/css/main.7e7d6d7f.chunk.css.map",
+    "static/js/2.6a06c07c.chunk.js.LICENSE.txt": "/Balabancvv/static/js/2.6a06c07c.chunk.js.LICENSE.txt",
+    "static/media/instagram.png": "/Balabancvv/static/media/instagram.e61a60d1.png",
+    "static/media/linkedin.png": "/Balabancvv/static/media/linkedin.e154da52.png",
+    "static/media/photo.jpeg": "/Balabancvv/static/media/photo.60b77c6d.jpeg",
+    "static/media/telegram.png": "/Balabancvv/static/media/telegram.a8478366.png",
+    "static/media/uk.png": "/Balabancvv/static/media/uk.da3b52a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d7fe630.js",
-    "static/js/2.c8ba52df.chunk.js",
+    "static/js/runtime-main.dd60d6d2.js",
+    "static/js/2.6a06c07c.chunk.js",
     "static/css/main.7e7d6d7f.chunk.css",
-    "static/js/main.ddf57a45.chunk.js"
+    "static/js/main.bc56a25f.chunk.js"
   ]
 }
