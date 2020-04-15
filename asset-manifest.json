@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Alex87-disign/Balabancvv.git/static/css/main.7e7d6d7f.chunk.css",
+    "main.js": "/Alex87-disign/Balabancvv.git/static/js/main.cbe19c71.chunk.js",
+    "main.js.map": "/Alex87-disign/Balabancvv.git/static/js/main.cbe19c71.chunk.js.map",
+    "runtime-main.js": "/Alex87-disign/Balabancvv.git/static/js/runtime-main.2311f443.js",
+    "runtime-main.js.map": "/Alex87-disign/Balabancvv.git/static/js/runtime-main.2311f443.js.map",
+    "static/js/2.875b2dce.chunk.js": "/Alex87-disign/Balabancvv.git/static/js/2.875b2dce.chunk.js",
+    "static/js/2.875b2dce.chunk.js.map": "/Alex87-disign/Balabancvv.git/static/js/2.875b2dce.chunk.js.map",
+    "index.html": "/Alex87-disign/Balabancvv.git/index.html",
+    "precache-manifest.026e084182ae0167cee6fef14ff7f425.js": "/Alex87-disign/Balabancvv.git/precache-manifest.026e084182ae0167cee6fef14ff7f425.js",
+    "service-worker.js": "/Alex87-disign/Balabancvv.git/service-worker.js",
+    "static/css/main.7e7d6d7f.chunk.css.map": "/Alex87-disign/Balabancvv.git/static/css/main.7e7d6d7f.chunk.css.map",
+    "static/js/2.875b2dce.chunk.js.LICENSE.txt": "/Alex87-disign/Balabancvv.git/static/js/2.875b2dce.chunk.js.LICENSE.txt",
+    "static/media/instagram.png": "/Alex87-disign/Balabancvv.git/static/media/instagram.e61a60d1.png",
+    "static/media/linkedin.png": "/Alex87-disign/Balabancvv.git/static/media/linkedin.e154da52.png",
+    "static/media/photo.jpeg": "/Alex87-disign/Balabancvv.git/static/media/photo.60b77c6d.jpeg",
+    "static/media/telegram.png": "/Alex87-disign/Balabancvv.git/static/media/telegram.a8478366.png",
+    "static/media/uk.png": "/Alex87-disign/Balabancvv.git/static/media/uk.da3b52a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2311f443.js",
+    "static/js/2.875b2dce.chunk.js",
+    "static/css/main.7e7d6d7f.chunk.css",
+    "static/js/main.cbe19c71.chunk.js"
+  ]
+}
