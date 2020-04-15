@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Alex87-disign/Balabancvv.git/static/css/main.7e7d6d7f.chunk.css",
-    "main.js": "/Alex87-disign/Balabancvv.git/static/js/main.2e7805d8.chunk.js",
-    "main.js.map": "/Alex87-disign/Balabancvv.git/static/js/main.2e7805d8.chunk.js.map",
+    "main.js": "/Alex87-disign/Balabancvv.git/static/js/main.3131e744.chunk.js",
+    "main.js.map": "/Alex87-disign/Balabancvv.git/static/js/main.3131e744.chunk.js.map",
     "runtime-main.js": "/Alex87-disign/Balabancvv.git/static/js/runtime-main.2311f443.js",
     "runtime-main.js.map": "/Alex87-disign/Balabancvv.git/static/js/runtime-main.2311f443.js.map",
-    "static/js/2.2b6dff0b.chunk.js": "/Alex87-disign/Balabancvv.git/static/js/2.2b6dff0b.chunk.js",
-    "static/js/2.2b6dff0b.chunk.js.map": "/Alex87-disign/Balabancvv.git/static/js/2.2b6dff0b.chunk.js.map",
+    "static/js/2.9d00e943.chunk.js": "/Alex87-disign/Balabancvv.git/static/js/2.9d00e943.chunk.js",
+    "static/js/2.9d00e943.chunk.js.map": "/Alex87-disign/Balabancvv.git/static/js/2.9d00e943.chunk.js.map",
     "index.html": "/Alex87-disign/Balabancvv.git/index.html",
-    "precache-manifest.36a70cec17334c740ab2751a990a7ffe.js": "/Alex87-disign/Balabancvv.git/precache-manifest.36a70cec17334c740ab2751a990a7ffe.js",
+    "precache-manifest.fb67222a061a2c040301b0b22f6e760c.js": "/Alex87-disign/Balabancvv.git/precache-manifest.fb67222a061a2c040301b0b22f6e760c.js",
     "service-worker.js": "/Alex87-disign/Balabancvv.git/service-worker.js",
     "static/css/main.7e7d6d7f.chunk.css.map": "/Alex87-disign/Balabancvv.git/static/css/main.7e7d6d7f.chunk.css.map",
-    "static/js/2.2b6dff0b.chunk.js.LICENSE.txt": "/Alex87-disign/Balabancvv.git/static/js/2.2b6dff0b.chunk.js.LICENSE.txt",
+    "static/js/2.9d00e943.chunk.js.LICENSE.txt": "/Alex87-disign/Balabancvv.git/static/js/2.9d00e943.chunk.js.LICENSE.txt",
     "static/media/instagram.png": "/Alex87-disign/Balabancvv.git/static/media/instagram.e61a60d1.png",
     "static/media/linkedin.png": "/Alex87-disign/Balabancvv.git/static/media/linkedin.e154da52.png",
     "static/media/photo.jpeg": "/Alex87-disign/Balabancvv.git/static/media/photo.60b77c6d.jpeg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2311f443.js",
-    "static/js/2.2b6dff0b.chunk.js",
+    "static/js/2.9d00e943.chunk.js",
     "static/css/main.7e7d6d7f.chunk.css",
-    "static/js/main.2e7805d8.chunk.js"
+    "static/js/main.3131e744.chunk.js"
   ]
 }

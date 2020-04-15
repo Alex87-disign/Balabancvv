@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Alex87-disign/Balabancvv.git/precache-manifest.36a70cec17334c740ab2751a990a7ffe.js"
+  "/Alex87-disign/Balabancvv.git/precache-manifest.fb67222a061a2c040301b0b22f6e760c.js"
 );
 
 self.addEventListener('message', (event) => {

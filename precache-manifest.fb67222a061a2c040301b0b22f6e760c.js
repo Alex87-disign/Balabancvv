@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ab0a7129255098b44db9f5e0a75b145",
+    "revision": "cf005e221d10cc0057ad609b6c00ba93",
     "url": "/Alex87-disign/Balabancvv.git/index.html"
   },
   {
-    "revision": "e7188d990aec63267f46",
+    "revision": "583f1b3f4f24c205b401",
     "url": "/Alex87-disign/Balabancvv.git/static/css/main.7e7d6d7f.chunk.css"
   },
   {
-    "revision": "a3a545b492153862b936",
-    "url": "/Alex87-disign/Balabancvv.git/static/js/2.2b6dff0b.chunk.js"
+    "revision": "d56e697448bdbaede56e",
+    "url": "/Alex87-disign/Balabancvv.git/static/js/2.9d00e943.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Alex87-disign/Balabancvv.git/static/js/2.2b6dff0b.chunk.js.LICENSE.txt"
+    "url": "/Alex87-disign/Balabancvv.git/static/js/2.9d00e943.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7188d990aec63267f46",
-    "url": "/Alex87-disign/Balabancvv.git/static/js/main.2e7805d8.chunk.js"
+    "revision": "583f1b3f4f24c205b401",
+    "url": "/Alex87-disign/Balabancvv.git/static/js/main.3131e744.chunk.js"
   },
   {
     "revision": "b6a63e0f7a4ad8842d66",
