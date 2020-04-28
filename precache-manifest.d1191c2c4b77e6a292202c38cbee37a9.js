@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdb87704701e40591dbfbd59461d3318",
+    "revision": "2239921f1f99a7c9c9957d7794378bdc",
     "url": "/Balabancvv/index.html"
   },
   {
-    "revision": "5296655f22a2b0d2e1a1",
-    "url": "/Balabancvv/static/css/main.92c45a61.chunk.css"
+    "revision": "ef9899a8798b13b941e5",
+    "url": "/Balabancvv/static/css/main.ce05e785.chunk.css"
   },
   {
-    "revision": "b73966491b5835ffbc8e",
-    "url": "/Balabancvv/static/js/2.2b068759.chunk.js"
+    "revision": "aad62a7b013fce9f4104",
+    "url": "/Balabancvv/static/js/2.8c13013c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Balabancvv/static/js/2.2b068759.chunk.js.LICENSE.txt"
+    "url": "/Balabancvv/static/js/2.8c13013c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5296655f22a2b0d2e1a1",
-    "url": "/Balabancvv/static/js/main.ca444458.chunk.js"
+    "revision": "ef9899a8798b13b941e5",
+    "url": "/Balabancvv/static/js/main.11ed9431.chunk.js"
   },
   {
     "revision": "45530796912944245c12",
